@@ -8,7 +8,7 @@
 
 
 - [Ravel, Chansons Madécasses, II](https://youtu.be/bb1Swd9xrl0?t=461)
-- [Koechlin, Sonata for piano and flute, II ending]([url](https://youtu.be/BYb4RFYM_3Y?t=405)) (with some medium)
+- [Koechlin, Sonata for piano and flute, II ending]((https://youtu.be/BYb4RFYM_3Y?t=405)) (with some medium)
 - [Rimsky-Korsakov, Scheherazade, IV](https://youtu.be/4rWG_tMJhh8?t=2005)
 - [Weber, Freyschütz, Wolf's Glen](https://youtu.be/2LQ6TDrhUro?t=679)
 
@@ -32,6 +32,15 @@
 
 ### Technique
 
+#### General
+
+- [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=761)
+- [Strauss, Salome, Dance](https://youtu.be/50rnWQvIK2I?t=3723)
+- [Debussy, Prélude à l'après-midi d'un faune](https://youtu.be/m8Sxyg5-0Vc?t=132)
+- [Les Bandar-Log, reh 4](https://youtu.be/nm90YA4lpIk?t=143)
+- [Rimsky-Korsakov, Sheherazade, III](https://youtu.be/4rWG_tMJhh8?t=1799)
+- [Meyerbeer, L'Africaine](url)
+
 #### Harmonics
 
 - [Ravel, Daphnis et Chloé, reh 44](https://youtu.be/7-pgjMEwDno?t=845)
@@ -45,10 +54,32 @@
 
 - [Saint-Saëns, Airs de Ballet d'Ascanio](https://youtu.be/kSaMO6v7e0U?t=142)
 - [Ravel, L'enfant et les sortilèges, TODO](url)
+- [Stravinsky, Firebird, TODO]()
 
 #### Tremolos
 
+
 #### Skips
+
+- [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=793)
+
+
+### Solo and Character
+
+#### Serene 
+
+#### Noble
+
+#### Tragic
+
+#### Graceful, Happy
+
+- [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=761)
+
+### Orchestral Usage
+
+
+## Piccolo
 
 
 
