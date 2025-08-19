@@ -8,9 +8,10 @@
 
 
 - [Ravel, Chansons Madécasses, II](https://youtu.be/bb1Swd9xrl0?t=461)
-- [Koechlin, Sonata for piano and flute, II ending]((https://youtu.be/BYb4RFYM_3Y?t=405)) (with some medium)
+- [Koechlin, Sonata for piano and flute, II ending](https://youtu.be/BYb4RFYM_3Y?t=405) (with some medium)
 - [Rimsky-Korsakov, Scheherazade, IV](https://youtu.be/4rWG_tMJhh8?t=2005)
 - [Weber, Freyschütz, Wolf's Glen](https://youtu.be/2LQ6TDrhUro?t=679)
+- [Ravel, L'enfant et les sortilèges, reh 70](https://youtu.be/z7WpFdQl9Zg?t=1171)
 
 
 #### Medium Register
@@ -44,7 +45,7 @@
 #### Harmonics
 
 - [Ravel, Daphnis et Chloé, reh 44](https://youtu.be/7-pgjMEwDno?t=845)
-- [Ravel, L'enfant et les sortilèges, TODO](url)
+- [Ravel, L'enfant et les sortilèges, before reh 75](https://youtu.be/z7WpFdQl9Zg?t=1370)
 
 #### Breathing Length
 
@@ -53,11 +54,13 @@
 #### Repeated Notes
 
 - [Saint-Saëns, Airs de Ballet d'Ascanio](https://youtu.be/kSaMO6v7e0U?t=142)
-- [Ravel, L'enfant et les sortilèges, TODO](url)
-- [Stravinsky, Firebird, TODO]()
+- [Ravel, L'enfant et les sortilèges, reh 66](https://youtu.be/z7WpFdQl9Zg?t=1118)
+- [Stravinsky, Firebird, p15?]()
 
-#### Tremolos
+#### Flutter Tongue
 
+- [Ravel, L'enfant et les sortilèges, before reh 20](https://youtu.be/z7WpFdQl9Zg?t=342)
+- [Ravel, L'enfant et les sortilèges, before reh 20]()
 
 #### Skips
 
@@ -75,6 +78,9 @@
 #### Graceful, Happy
 
 - [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=761)
+- [Roussel, Joueurs de flûte, I:Pan](https://youtu.be/xvZIs3Q5HlA)
+
+
 
 ### Orchestral Usage
 
