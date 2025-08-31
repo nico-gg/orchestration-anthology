@@ -67,22 +67,37 @@
 - [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=793)
 
 
-### Solo and Character
+### Solos and Characteristic passages
 
-#### Serene 
 
-#### Noble
-
-#### Tragic
-
-#### Graceful, Happy
 
 - [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4?t=761)
 - [Roussel, Joueurs de flûte, I:Pan](https://youtu.be/xvZIs3Q5HlA)
-
+- [Debussy, Pelléas et Mélisande, act II start](https://youtu.be/B_DzHyolCaY)
+- [Mendelssohn, Midsummer Night's Dream, Scherzo start](https://youtu.be/08SepkBc3QY?t=698)
+- [Mendelssohn, Midsummer Night's Dream, Scherzo ending](https://youtu.be/08SepkBc3QY?t=943)
+- [Ravel, Shéhérazade, II from start onwards](https://youtu.be/mZFm51etZ20?t=559)
+- [Fauré/Koechlin, Pelléas et Mélisande, IV](https://youtu.be/KrrdhR6tGB8)
+- [Borodin, In the Steppes of Central Asia, end](https://youtu.be/YW0m0vfrl2w?t=402)
+- [Debussy, Prélude l'après-midi 'un faune, start](https://youtu.be/m8Sxyg5-0Vc?t=6)
+- [Ibert, Flute Concerto, reh 51-58](https://youtu.be/4SOQI6y6_t4?t=888)
+- [Koechlin, Les Heures Persanes, IX](https://youtu.be/eA0DyKPHqg0?t=1679)
+- [Koechlin, Les Heures Persanes, XI](https://youtu.be/eA0DyKPHqg0?t=1955)
+- [Fauré/Koechlin, Pelléas et Mélisande, III](https://youtu.be/KrrdhR6tGB8?t=538)
+- 
 
 
 ### Orchestral Usage
+
+#### Repeated Notes
+- [Mendelssohn, Italian Symphonie, I](https://youtu.be/xI8IzIKGslA?t=5)
+- 
+
+[Mendelssohn, Italian Symphonie, II](https://youtu.be/xI8IzIKGslA?t=654)
+
+#### Doubling
+
+- [Beethoven, Sypmhony 3, III](https://youtu.be/0kSrLK7Eems?t=1898)
 
 
 ## Piccolo
