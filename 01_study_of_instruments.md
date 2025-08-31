@@ -14,6 +14,7 @@
 - [Ravel, L'enfant et les sortilèges, reh 70](https://youtu.be/z7WpFdQl9Zg?t=1171)
 
 
+
 #### Medium Register
 
 [Gluck, Armide, TODO](url)
@@ -28,8 +29,9 @@
 - High C#
   - [Wagner, Walküre, Act 3](https://youtu.be/Qx55EmiFadg?t=12943)
  
-- High D, with ossia
+- High D
   - [Stravisky, Renard, reh 33](https://youtu.be/iw3jWpJK-JA?t=412)
+  - [Strauss, Symphonia Domestice](https://youtu.be/ETQWcUkLGRE?t=345)
 
 ### Technique
 
@@ -84,6 +86,10 @@
 - [Koechlin, Les Heures Persanes, IX](https://youtu.be/eA0DyKPHqg0?t=1679)
 - [Koechlin, Les Heures Persanes, XI](https://youtu.be/eA0DyKPHqg0?t=1955)
 - [Fauré/Koechlin, Pelléas et Mélisande, III](https://youtu.be/KrrdhR6tGB8?t=538)
+- [Ravel, Ma mère l'Oye, I](https://youtu.be/IwZsrmxaAUU)
+- [Schumann, Symphony 1, IV](https://youtu.be/xmXWs-nPSjc?t=1643)
+- [Ravel, Daphnis et Chloé, reh 176](https://youtu.be/7-pgjMEwDno?t=2831)
+- 
 - 
 
 
