@@ -6,22 +6,23 @@
 
 #### Low Register
 
-
 - [Ravel, Chansons Madécasses, II](https://youtu.be/bb1Swd9xrl0?t=461)
-- [Koechlin, Sonata for piano and flute, II ending](https://youtu.be/BYb4RFYM_3Y?t=405) (with some medium)
 - [Rimsky-Korsakov, Scheherazade, IV](https://youtu.be/4rWG_tMJhh8?t=2005)
 - [Weber, Freyschütz, Wolf's Glen](https://youtu.be/2LQ6TDrhUro?t=679)
 - [Ravel, L'enfant et les sortilèges, reh 70](https://youtu.be/z7WpFdQl9Zg?t=1171)
-
-
-
+- [Stravinsky, Symphony of Psalms, II reh 2](https://youtu.be/VUSfrgPQjRM?t=258)
+- [Koechlin, Sonata for piano and flute, II ending](https://youtu.be/BYb4RFYM_3Y?t=405) (with some medium)
+- [Ravel, Ma Mere L'oye, start](https://youtu.be/IwZsrmxaAUU?t=7) (mid-low)
+  
 #### Medium Register
 
 [Gluck, Armide, TODO](url)
 
+
 #### High Register
 
 - [Koechlin, Sonata for piano and flute, I start](https://youtu.be/BYb4RFYM_3Y)
+- [Schumann, Symphony 1, IV](https://youtu.be/tbYbV2IZg9s?t=1817)
 
 
 #### Extreme High
@@ -31,7 +32,7 @@
  
 - High D
   - [Stravisky, Renard, reh 33](https://youtu.be/iw3jWpJK-JA?t=412)
-  - [Strauss, Symphonia Domestice](https://youtu.be/ETQWcUkLGRE?t=345)
+  - [Strauss, Symphonia Domestica](https://youtu.be/ETQWcUkLGRE?t=345)
 
 ### Technique
 
@@ -43,6 +44,7 @@
 - [Les Bandar-Log, reh 4](https://youtu.be/nm90YA4lpIk?t=143)
 - [Rimsky-Korsakov, Sheherazade, III](https://youtu.be/4rWG_tMJhh8?t=1799)
 - [Meyerbeer, L'Africaine](url)
+- [Strauss, Elektra, Orest is tot!](https://youtu.be/4cPJzgiwFMM?t=3203) (agility, _hard to hear_)
 
 #### Harmonics
 
@@ -97,9 +99,13 @@
 
 #### Repeated Notes
 - [Mendelssohn, Italian Symphonie, I](https://youtu.be/xI8IzIKGslA?t=5)
-- 
+- [Tchaikovsky, Nutcracker Suite 1, March](https://youtu.be/yQNJvhdh-Y0?t=275)
 
 [Mendelssohn, Italian Symphonie, II](https://youtu.be/xI8IzIKGslA?t=654)
+
+#### Alternating
+
+- [Stravinsky, Firebird reh 8](https://youtu.be/38R_MIrKgtc?t=359)
 
 #### Doubling
 
