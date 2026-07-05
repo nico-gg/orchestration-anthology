@@ -13,6 +13,7 @@
 - [Stravinsky, Symphony of Psalms, II reh 2](https://youtu.be/VUSfrgPQjRM?t=258) P
 - [Koechlin, Sonata for piano and flute, II ending](https://youtu.be/BYb4RFYM_3Y?t=405) (with some medium) K
 - [Ravel, Ma Mere L'oye, start](https://youtu.be/IwZsrmxaAUU?t=7) (mid-low) K
+- [Dvorak, Symphony 9, I, reh5](https://youtu.be/m4OrdMJ3Iyo?t=257) (mid-low) F
   
 #### Medium Register
 
@@ -96,7 +97,7 @@
 #### Repeated Notes
 - [Mendelssohn, Italian Symphonie, I](https://youtu.be/xI8IzIKGslA?t=5) K
 - [Tchaikovsky, Nutcracker Suite 1, March](https://youtu.be/yQNJvhdh-Y0?t=275) P
-- [Debussy, La Mer, TODO](url)
+- [Debussy, La Mer, TODO](url) P
 
 #### Alternating
 
@@ -117,6 +118,7 @@
 #### Doubling
 
 - [Beethoven, Symphony 3, III](https://youtu.be/0kSrLK7Eems?t=1898) K
+- [Tchaikovsky, Symphony 6, IV beginning](https://youtu.be/QJ2jpbvmWhY?t=2195) F
 
 
 ## Piccolo
