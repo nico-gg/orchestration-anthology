@@ -59,11 +59,12 @@
 
 - [Saint-Saëns, Airs de Ballet d'Ascanio](https://youtu.be/kSaMO6v7e0U?t=142) K
 - [Ravel, L'enfant et les sortilèges, reh 66](https://youtu.be/z7WpFdQl9Zg?t=1118) K
-- [Stravinsky, Firebird, p15?]() 
+- [Stravinsky, Firebird, reh18](https://youtu.be/HDqR1qHLKEc?t=274) 
 
 #### Flutter Tongue
 
 - [Ravel, L'enfant et les sortilèges, before reh 20](https://youtu.be/z7WpFdQl9Zg?t=342) K
+- [Milhaud, La Création du Monde, TODO](url)
 
 #### Skips
 
@@ -73,43 +74,49 @@
 ### Solos and Characteristic passages
 
 
+- [Ravel, Daphnis et Chloé, reh 176](https://youtu.be/7-pgjMEwDno?t=2831) KP
 - [Roussel, Joueurs de flûte, I:Pan](https://youtu.be/xvZIs3Q5HlA) K
 - [Ibert, Flute Concerto, reh 51-58](https://youtu.be/4SOQI6y6_t4?t=888) K
 - [Saint Saëns, Le Carnaval des animaux, X:Volière](https://youtu.be/uUBmdsaIeN4) K
-- [Mendelssohn, Midsummer Night's Dream, Scherzo ending](https://youtu.be/08SepkBc3QY?t=943)
-- [Debussy, Pelléas et Mélisande, act II start](https://youtu.be/B_DzHyolCaY)
-- [Koechlin, Les Heures Persanes, IX](https://youtu.be/eA0DyKPHqg0?t=1679)
+- [Mendelssohn, Midsummer Night's Dream, Scherzo ending](https://youtu.be/08SepkBc3QY?t=943) K
+- [Debussy, Pelléas et Mélisande, act II start](https://youtu.be/B_DzHyolCaY) K
+- [Koechlin, Les Heures Persanes, IX](https://youtu.be/eA0DyKPHqg0?t=1679) K
+- [Mendelssohn, Midsummer Night's Dream, Scherzo start](https://youtu.be/08SepkBc3QY?t=698) K
+- [Ravel, Shéhérazade, II from start onwards](https://youtu.be/mZFm51etZ20?t=559) K
+- [Borodin, In the Steppes of Central Asia, end](https://youtu.be/YW0m0vfrl2w?t=402) K
+- [Debussy, Prélude l'après-midi d'un faune, start](https://youtu.be/m8Sxyg5-0Vc?t=6) K
+- [Koechlin, Les Heures Persanes, XI](https://youtu.be/eA0DyKPHqg0?t=1955) K
+- [Fauré/Koechlin, Pelléas et Mélisande, III](https://youtu.be/KrrdhR6tGB8?t=538) K
+- [Ravel, Ma mère l'Oye, I](https://youtu.be/IwZsrmxaAUU) K
+- [Fauré/Koechlin, Pelléas et Mélisande, IV](https://youtu.be/KrrdhR6tGB8?t=782) K
 
-- [Mendelssohn, Midsummer Night's Dream, Scherzo start](https://youtu.be/08SepkBc3QY?t=698)
-- [Ravel, Shéhérazade, II from start onwards](https://youtu.be/mZFm51etZ20?t=559)
-- [Borodin, In the Steppes of Central Asia, end](https://youtu.be/YW0m0vfrl2w?t=402)
-- [Debussy, Prélude l'après-midi d'un faune, start](https://youtu.be/m8Sxyg5-0Vc?t=6)
-
-- [Koechlin, Les Heures Persanes, XI](https://youtu.be/eA0DyKPHqg0?t=1955)
-- [Fauré/Koechlin, Pelléas et Mélisande, III](https://youtu.be/KrrdhR6tGB8?t=538)
-- [Ravel, Ma mère l'Oye, I](https://youtu.be/IwZsrmxaAUU)
-- [Fauré/Koechlin, Pelléas et Mélisande, IV](https://youtu.be/KrrdhR6tGB8?t=782)
-- [Schumann, Symphony 1, IV](https://youtu.be/xmXWs-nPSjc?t=1643) K
-- [Ravel, Daphnis et Chloé, reh 176](https://youtu.be/7-pgjMEwDno?t=2831) K
-  
 
 ### Orchestral Usage
 
 #### Repeated Notes
 - [Mendelssohn, Italian Symphonie, I](https://youtu.be/xI8IzIKGslA?t=5) K
 - [Tchaikovsky, Nutcracker Suite 1, March](https://youtu.be/yQNJvhdh-Y0?t=275) P
-
-### Accompaniment
-
-- [Mendelssohn, Italian Symphonie, II](https://youtu.be/xI8IzIKGslA?t=654) KP
+- [Debussy, La Mer, TODO](url)
 
 #### Alternating
 
 - [Stravinsky, Firebird reh 8](https://youtu.be/38R_MIrKgtc?t=359) P
 
+#### Two Flutes
+
+- [Mendelssohn, Italian Symphonie, II](https://youtu.be/xI8IzIKGslA?t=654) KP
+- [Stravinsky, Orpheus reh 24](https://youtu.be/8ZNXhbS4JjM?t=305) P
+- [Debussy, Première Rhapsodie, before reh 8](https://youtu.be/UPFrJi6efgE?t=357) P
+- [Malhler, Symphony 4, III reh 13](https://youtu.be/pCuHCMitaoQ?t=2788) P
+
+#### More than Two Flutes
+
+- [Verdi, Aida, Danza Sacra Delle Sacerdotesse](https://youtu.be/WzArcRoetRM?t=1923) P
+- [Berg, Wozzeck, End](https://youtu.be/IhLh6E28dz4?t=6072) P
+
 #### Doubling
 
-- [Beethoven, Sypmhony 3, III](https://youtu.be/0kSrLK7Eems?t=1898) K
+- [Beethoven, Symphony 3, III](https://youtu.be/0kSrLK7Eems?t=1898) K
 
 
 ## Piccolo
